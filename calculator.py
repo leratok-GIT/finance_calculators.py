@@ -1,7 +1,10 @@
+# a program that allows the user to access two different financial calculators:
+#  an investment calculator and a home loan repayment calculator.
 
 import math
 
 def output():
+    # first output that the user sees when the program runs
     print("\n Choose either 'investment' or 'bond' from the  menu below to proceed: \n" )
     print("investment - to calculator the amount of interest you'll earn on interest")
     print("bond - to calculator the amount you'll have to pay on a home loan")
