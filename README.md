@@ -14,11 +14,19 @@ The Bonds calculations
   * Python
   * Vs code
 
+# Key Features
+ * Financial calculator
+ * user friendly calculator
+ * terminal based-work
+
 # Getting Started 
 To get a local copy of this work, you can follow these steps below
   1. Clone this repository or download the folder.
     https://github.com/leratok-GIT/finance_calculators.py/blob/main/calculator.py
   2. Navigate the folder in your machine
+  3. Open VS-Code or the environment you using
+  4. Open the calculator.py file to access the code
+  5. press run or the triangle shape 
 
 # Authour
 👤 lerato Kgwedi
